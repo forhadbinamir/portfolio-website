@@ -16,10 +16,11 @@ h1{
 .half-width{
     padding: 5%;
 }
-.lin{
-    font-size: 700px;
+.link-button{
+    font-weight:700;
     background-image: linear-gradient(orange, tomato);
-    padding:20px, 40px;
     color:#ffffff;
     border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
 }
