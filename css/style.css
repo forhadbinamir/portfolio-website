@@ -31,12 +31,12 @@ h2{
     padding: 10px 20px;
     text-decoration: none;
 }
-#top-banner{
+.top-banner{
    background-image: url(images/top-banner.png);
    background-repeat: no-repeat;
    
 }
-#big-dream{
+.big-dream{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
 }
